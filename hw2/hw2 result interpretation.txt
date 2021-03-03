@@ -1,0 +1,5 @@
+0.010803750532695354 < (alpha)[0.05]
+reject the null; Raf , Erk not CI given Mek
+
+0.24451177158165738 > (alpha)[0.05]
+fail to reject the null; Raf , Erk CI given Mek, PKA, PKC

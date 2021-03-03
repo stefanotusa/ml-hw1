@@ -19,8 +19,6 @@ def odds_ratio(X, Y, Z, data):
     #              ------------------------------------------
     #              odds X = x instead of x_ref when Y = y_ref
 
-    
-
     #   P(Y=y | X=x, Z)             P(Y=y_ref | X=x_ref, Z)
     # -------------------   x    ---------------------------
     # P(Y=y_ref | X=x, Z)            P(Y=y | X=x_ref, Z)

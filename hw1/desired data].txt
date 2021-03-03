@@ -1,0 +1,11 @@
+I've worked with assorted datasets in CS475: Machine Learning,
+ but no particular one stands out in my memory. I did compile a
+small dataset of consisting of song lyrics for Billboard's 
+then-current Top 100 Songs  for a personal project that was then
+put through some standard NLP pre-processing steps.
+
+In this class, I would like to work with some kind of social
+ network data, or perhaps more advanced listening analytics from
+a streaming service such as Spotify or Apple Music. 
+Generally, I am interested more in sociological,
+cultural, or psychological data.

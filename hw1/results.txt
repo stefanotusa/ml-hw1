@@ -1,0 +1,18 @@
+[0.1438688] (0.12725303801129292, 0.15753909594662266)
+[0.1438688] (0.12760690636796834, 0.15406357126703288)
+[0.65646259] (0.1285417983801343, 0.15911470032673067)
+[0.65646259] (0.12628793825222398, 0.1554943606904892)
+
+a) Mortality would not be considered independent of opera
+since the OR is relatively far from 1.
+b) Here there is definitely a weaker association between
+Mortality and Opera given Income. This makes sense, as we
+would expect Income and Opera to be correlated variables
+associated with lower rates of Mortality, due to a number
+of socioeconomic factors.
+
+Causally, the numbers need not be attributed too much
+particular meaning. The resolution of information from
+the dataset is not particularly high, and a causal explanation
+for opera's direct effect on human mortality remains yet to be
+found. 
